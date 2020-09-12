@@ -1,6 +1,6 @@
 <?php
 
 //Название вашего сайта/продукта
-$name = "";
+$name = "GUIDE TEST TEST TEST";
 
 ?>
